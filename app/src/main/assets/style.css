@@ -1,0 +1,25 @@
+ @font-face {
+    font-family: Cantarell;
+    src: url(Cantarell-Regular-webfont.ttf);
+}
+
+* {
+    font-family: Cantarell;
+}
+h2{
+    color: #555555;
+}
+p {
+    color: #777777;
+}
+.size-large {
+    width: 99%;
+    height: auto !important;
+    overflow: hidden !important;
+}
+
+#textContainer{
+ text-align: justify;
+ overflow-x: hidden !important;
+
+}

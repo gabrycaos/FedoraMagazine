@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_8ddd86005ff4c3f9c0e7744fd6ea4740f14c5043/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/falascagabriele/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/pre-dexed/release/support-annotations-24.1.1_21fec048b222d46860e2b8ca6e95b42d2b78c4b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.1.1_6761da623601336eb5c56a4f3c472ab031e04e79.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_21fec048b222d46860e2b8ca6e95b42d2b78c4b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_6761da623601336eb5c56a4f3c472ab031e04e79/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/pre-dexed/release/com.android.support-design-24.1.1_6800e74ee8d69faeebae8b9f5ed101f06f39e6f4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="895a4263bf2c4d87d8e4df49b10fa84fcee9606a">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48ae13113a150a25c0ccd00cb57ec3b526ea7b66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cde0d85f561aa9324883b671800b9b7be5667054">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6e0d757439daac9502377dedb0c1c828bc43cabc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_133e79075a00dc90995d82c88cab32c18c2aae19/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-24.1.1_133e79075a00dc90995d82c88cab32c18c2aae19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/falascagabriele/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/pre-dexed/release/glide-3.5.2_f123e2377ee290f5a44c3a99c6f43bc306dec222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.1.1_c56b40918fc1e428f674aebd520d97e4952bb2a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/falascagabriele/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/pre-dexed/release/httpclient-4.3.6_6bdbef9e25c0127a67de96027f9f3673ac7c8549.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/libs/java-json.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="edad9c5de6fb8df07c535a47045956026011ffa3">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/pre-dexed/release/java-json_4692eae8c0b6a4988bf7b5b989370c98d3475868.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.5.2_f123e2377ee290f5a44c3a99c6f43bc306dec222/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_c56b40918fc1e428f674aebd520d97e4952bb2a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_6800e74ee8d69faeebae8b9f5ed101f06f39e6f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_6bdbef9e25c0127a67de96027f9f3673ac7c8549/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/falascagabriele/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/pre-dexed/release/android-async-http-1.4.9_ff83248f7c147b75ab2e39a65bc084d58c6bbafe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.1.1_8ddd86005ff4c3f9c0e7744fd6ea4740f14c5043.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/libs/java-json.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="edad9c5de6fb8df07c535a47045956026011ffa3">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/2/java-json_4692eae8c0b6a4988bf7b5b989370c98d3475868/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_ff83248f7c147b75ab2e39a65bc084d58c6bbafe/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/pre-dexed/release/internal_impl-24.1.1_0b3d68d7a8e5c82c2108f6374d51210971d0b8f7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_0b3d68d7a8e5c82c2108f6374d51210971d0b8f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_1b987465a9914eeb84011ab13e5ac5c451f21e6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.1.1_1b987465a9914eeb84011ab13e5ac5c451f21e6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.1.1_749c8ad7b038889f383906b5993a127748ca34f3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/falascagabriele/workspace/fedoramagazine/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_749c8ad7b038889f383906b5993a127748ca34f3/classes.dex" />
+    </item>
+
+</items>
